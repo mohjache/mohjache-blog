@@ -13,17 +13,18 @@ superuser: true
 role: Fullstack Developer
 
 # Organizations/Affiliations
-organizations:
-- name: Metro North HHS
-  url: ""
+# organizations: 
+# - name: Metro North HHS
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chaser of shiny things. Currently love dotnet things and swift :D
+bio: Chaser of shiny things. Currently loving dotnet core and swift :D
 
 interests:
 - Web Development
 - Mobile Devleopment
 - Healthcare
+- Badminton
 
 education:
   courses:
