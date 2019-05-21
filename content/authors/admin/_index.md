@@ -24,7 +24,6 @@ interests:
 - Web Development
 - Mobile Devleopment
 - Healthcare
-- 
 
 education:
   courses:
